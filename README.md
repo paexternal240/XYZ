@@ -20,4 +20,4 @@ Install dependencies:
 
 Run the server:
 
-`python main.py`
+`python app.py`
